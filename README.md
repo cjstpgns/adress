@@ -1,9 +1,5 @@
 # 주소록 관리 프로젝트
-
-
-
-
-
+# 프로그램설명
 
 
 ![{E9164D58-1AB3-485B-8F38-9D1CF890F0A5} png](https://user-images.githubusercontent.com/102707554/170481550-17957c21-b224-4033-8da1-d3c38309c2d2.jpg)
